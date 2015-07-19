@@ -1,1 +1,0 @@
-The control of representativeness Document  used to calculate universes of the sample to be put into live panel . Created manually in excel by product enhancement team whenever Universe-Update is   done . The process is repetitive and time consuming.OBJECTIVE: Automate the whole process in R.TOOLS:R –statistical software
